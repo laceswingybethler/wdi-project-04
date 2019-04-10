@@ -35,6 +35,7 @@ The brief for this project was to create a full-stack app with a PostgreSQL/Pyth
 2. Install ```yarn``` (and ```pipenv```) in Terminal
 3. Launch a flask server ```yarn  serve:flask```
 4. Launch Webpack to watch the front-end ```yarn serve:react```
+5. Navigate to ```http://localhost:8000/``` in your browser to view
 
 
 ## Overview
